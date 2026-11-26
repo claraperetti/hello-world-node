@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js Hello World com Docker e GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
